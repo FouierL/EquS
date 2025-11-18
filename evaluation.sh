@@ -30,6 +30,8 @@ python main.py --ni --config celeba_hq.yml --path_y celeba_hq --eta 0.85 --deg "
 
 ## Experiments on ImageNet ##
 
+## You can directly add "--EquS" or "--EquSplus" to activate EquS and EquS+ respectively ##
+
     # noise-free tasks
 python main.py --ni --config imagenet_256.yml --path_y imagenet --eta 0.85 --deg "sr_bicubic" --deg_scale 4 --sigma_y 0. -i imagenet_sr_bc_4
 
