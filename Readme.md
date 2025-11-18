@@ -1,6 +1,6 @@
 
 # Equivariant Sampling for Improving Diffusion Model-based Image Restoration
-## 📖[**Paper**]()|
+## 📖[**Paper**](https://arxiv.org/abs/2511.09965)
 
 
 [Chenxu Wu](https://fouierl.github.io/chenxuwu.github.io/), [Qingpeng Kong](https://kqp1227.github.io/), [Peiang Zhao](https://scholar.google.com/citations?user=mVcmH3oAAAAJ&hl=en), [Wendi Yang](https://scholar.google.com/citations?user=fBEI1DgAAAAJ&hl=zh-CN), [Wenxin Ma](https://mwxinnn.github.io/about/), [Fenghe Tang](https://fenghetan9.github.io/) ,[Zihang Jiang](https://scholar.google.com/citations?user=Wo8tMSMAAAAJ), [S.Kevin Zhou](https://scholar.google.com/citations?user=8eNm2GMAAAAJ)
