@@ -8,8 +8,7 @@
 from [MIRACLE Center](https://miracle.ustc.edu.cn/main.htm), USTC
 (📧wuchenxu@mail.ustc.edu.cn)
 
-
-
+![poster](main_pic.pdf)
 ---
 
 ### Pre-Trained Models
