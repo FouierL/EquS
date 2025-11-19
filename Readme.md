@@ -7,9 +7,11 @@
 
 from [MIRACLE Center](https://miracle.ustc.edu.cn/main.htm), USTC
 
-(Questions mail 2 📧wuchenxu@mail.ustc.edu.cn)
+(Questions mail to 📧wuchenxu@mail.ustc.edu.cn)
 
 ![main_pic](main_pic-1.png)
+Our method offers (a) superior quantitative performance, (b) improved qualitative results. It is (c) adaptable to various IR applications, (d) robust to different scales, and (e) resilient to different noise levels. $\y$ represents the degraded image, $\x_0$ denotes the sampling result, SR represents super-resolution and CS represents compressed-sensing.
+
 ---
 
 ### Pre-Trained Models
@@ -33,6 +35,11 @@ Download the ImageNet testset and put it into `DDNM/exp/datasets/imagenet/` and 
 To execute **EquS**, kindly follow the instructions in the `"evaluation.sh"` script provided in the repository.
 
 ---
+
+Our method remains equally effective with different image transformations:
+
+![main_pic](DDvsMetrics-1.png)
+(a,b) NFE vs. Evaluation metrics (block-based CS 25\%). Our method is not limited by specific NFE. (c) Different transformations vs. Evaluation metrics. Random: Randomly select one transformation.
 
 # References
 If you find this repository useful for your research, please cite the following work.
