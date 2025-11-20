@@ -9,7 +9,7 @@ from [MIRACLE Center](https://miracle.ustc.edu.cn/main.htm), USTC
 
 (Questions mail to 📧wuchenxu@mail.ustc.edu.cn)
 
-![main_pic](main_pic-1.png)
+![main_pic](images/main_pic-1.png)
 Our method offers (a) superior quantitative performance, (b) improved qualitative results. It is (c) adaptable to various IR applications, (d) robust to different scales, and (e) resilient to different noise levels. $\y$ represents the degraded image, $\x_0$ denotes the sampling result, SR represents super-resolution and CS represents compressed-sensing.
 
 ---
@@ -24,22 +24,28 @@ To restore general images, download this [model](https://openaipublic.blob.core.
 wget https://openaipublic.blob.core.windows.net/diffusion/jul-2021/256x256_diffusion_uncond.pt
 ```
 
-**Datasets:**  
+### Datasets
 Datasets can be accessed via the official repository of DDNM: [DDNM GitHub Repository](https://github.com/wyhuai/DDNM).
 
 Download the CelebA testset and put it into `DDNM/exp/datasets/celeba/`.
 
 Download the ImageNet testset and put it into `DDNM/exp/datasets/imagenet/` and replace the file `DDNM/exp/imagenet_val_1k.txt`.
 
-**Quick Start:**  
+### Quick Start
 To execute **EquS**, kindly follow the instructions in the `"evaluation.sh"` script provided in the repository.
 
 ---
-
+### Robustness on different image transformations
 Our method remains equally effective with different image transformations:
 
-![main_pic](DDvsMetrics-1.png)
+![main_pic](images/DDvsMetrics-1.png)
 (a,b) NFE vs. Evaluation metrics (block-based CS 25\%). Our method is not limited by specific NFE. (c) Different transformations vs. Evaluation metrics. Random: Randomly select one transformation.
+
+---
+### Results to cite
+Please refer to our [**Paper**](https://arxiv.org/abs/2511.09965) for more results.
+
+![table](images/table.png)
 
 # References
 If you find this repository useful for your research, please cite the following work.
