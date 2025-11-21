@@ -59,4 +59,5 @@ If you find this repository useful for your research, please cite the following 
 ```
 This implementation is based on / inspired by:
 - [DDNM GitHub Repository](https://github.com/wyhuai/DDNM)
+
 Thanks to the authors of DDNM for their great work.
