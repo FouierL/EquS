@@ -54,3 +54,4 @@ Wu C, Kong Q, Zhao P, et al. Equivariant Sampling for Improving Diffusion Model-
 ```
 This implementation is based on / inspired by:
 - [DDNM GitHub Repository](https://github.com/wyhuai/DDNM)
+Thanks to the authors of DDNM for their great work.
