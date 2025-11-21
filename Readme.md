@@ -50,7 +50,7 @@ Please refer to our [**Paper**](https://arxiv.org/abs/2511.09965) for more resul
 # References
 If you find this repository useful for your research, please cite the following work.
 ```
-
+Wu C, Kong Q, Zhao P, et al. Equivariant Sampling for Improving Diffusion Model-based Image Restoration[J]. arXiv preprint arXiv:2511.09965, 2025.
 ```
 This implementation is based on / inspired by:
 - [DDNM GitHub Repository](https://github.com/wyhuai/DDNM)
