@@ -10,7 +10,7 @@ from [MIRACLE Center](https://miracle.ustc.edu.cn/main.htm), USTC
 (Questions mail to 📧wuchenxu@mail.ustc.edu.cn)
 
 ![main_pic](images/main_pic-1.png)
-Our method offers (a) superior quantitative performance, (b) improved qualitative results. It is (c) adaptable to various IR applications, (d) robust to different scales, and (e) resilient to different noise levels. $\y$ represents the degraded image, $\x_0$ denotes the sampling result, SR represents super-resolution and CS represents compressed-sensing.
+Our method offers (a) superior quantitative performance, (b) improved qualitative results. It is (c) adaptable to various IR applications, (d) robust to different scales, and (e) resilient to different noise levels. $y$ represents the degraded image, $x_0$ denotes the sampling result, SR represents super-resolution and CS represents compressed-sensing.
 
 ---
 
