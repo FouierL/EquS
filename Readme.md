@@ -1,5 +1,5 @@
 
-# Equivariant Sampling for Improving Diffusion Model-based Image Restoration
+# Equivariant Sampling for Improving Diffusion Model-based Image Restoration [WACV 2026❄️]
 ## 📖[**Paper**](https://arxiv.org/abs/2511.09965)
 
 
